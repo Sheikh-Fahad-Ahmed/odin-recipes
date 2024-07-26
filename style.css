@@ -1,0 +1,12 @@
+* {
+    margin: 10px;
+    box-sizing: border-box;
+}
+
+.home-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    
+}
